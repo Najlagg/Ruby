@@ -1,4 +1,2 @@
 # Ruby
-THP | Exercices Ruby
-Exercice journaliste 
-Exercice crypto
+THP | Exercices Ruby | Exercice journalistes | Exercice cryptos
